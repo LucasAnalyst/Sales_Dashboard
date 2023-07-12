@@ -37,8 +37,7 @@ Key tasks:
 Thank Ismaila Omeiza M and your Data with Decision Youtube channel([@datalab365](https://www.youtube.com/@datalab365/about)), for sharing your experience and helping me learn more tips to complete this project.
 
 # My Result
-![Dashboard.mp4](https://github.com/LucasAnalyst/Sales_Dashboard/assets/116628385/c6679c19-25d4-49df-840f-7a9e367d324a)
+Dashboard:
 
-![](DetailPerson.mp4)](https://github.com/LucasAnalyst/Sales_Dashboard/issues/1#issue-1801121466)
 
 * Download Power bi file [here](Sales_Dashboard.pbix)
