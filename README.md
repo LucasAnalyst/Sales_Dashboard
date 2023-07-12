@@ -7,7 +7,7 @@ Goal: Create a compelling, dynamic sales dashboard in Power BI that updates auto
 ---
 Tool: Power BI desktop - Figma
 1. Connect to your data source. This is an Excel workbook with 3 tables containing sales data.
-  * Data source: [here](https://drive.google.com/file/d/1ymx7mvgk-vs8WGDzU20Bji1UOjwfKZVi/view?usp=sharing).
+  * Data source: [here](https://drive.google.com/file/d/1ymx7mvgk-vs8WGDzU20Bji1UOjwfKZVi/view?usp=sharing) .
 2. Import data into Power BI desktop, and transform data for better analysis.
 ### II. Analyze Sales data.
 ---
@@ -34,9 +34,9 @@ Key tasks:
 6. Format labels, titles, and legends for a professional, organized presentation.
 
 ## Build your skills and confidence. Have a good day!
-Thank Ismaila Omeiza M and your Data with Decision Youtube channel([@datalab365](https://www.youtube.com/@datalab365/about), for sharing your experience and helping me learn more tips to complete this project.
+Thank Ismaila Omeiza M and your Data with Decision Youtube channel([@datalab365](https://www.youtube.com/@datalab365/about)), for sharing your experience and helping me learn more tips to complete this project.
 
 # My Result
-![](Dashboard.mp4)
+![]([Dashboard.mp4](https://github.com/LucasAnalyst/Sales_Dashboard/assets/116628385/c6679c19-25d4-49df-840f-7a9e367d324a)https://github.com/LucasAnalyst/Sales_Dashboard/assets/116628385/c6679c19-25d4-49df-840f-7a9e367d324a)
 ![](DetailPerson.mp4)
 * Download Power bi file [here](Sales_Dashboard.pbix)
