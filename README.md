@@ -35,3 +35,5 @@ Key tasks:
 ## Build your skills and confidence. Have a good day!
 
 # Result
+![](Dashboard_Sales.pdf)
+* Download Power bi file [here](Sales_Dashboard.pbix)
