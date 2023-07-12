@@ -1,4 +1,4 @@
-# Sales_Dashboard ![](2. Icons/Saleslogo.png)
+# Sales_Dashboard
 ## Advance_your_skills
 Goal: Create a compelling, dynamic sales dashboard in Power BI that updates automatically based on the filters selected.
 
