@@ -53,4 +53,4 @@ https://github.com/LucasAnalyst/Sales_Dashboard/assets/116628385/175bf802-a58f-4
 
 
 
-* Download Power bi file [here](Sales_Dashboard.pbix)
+* Download Power BI file [here](Sales_Dashboard.pbix)
