@@ -1,4 +1,5 @@
 # Sales_Dashboard
+---
 ## Advance_your_skills
 Goal: Create a compelling, dynamic sales dashboard in Power BI that updates automatically based on the filters selected.
 
@@ -33,7 +34,9 @@ Key tasks:
 6. Format labels, titles, and legends for a professional, organized presentation.
 
 ## Build your skills and confidence. Have a good day!
+Thank Ismaila Omeiza M and your Data with Decision Youtube channel([@datalab365](https://www.youtube.com/@datalab365/about), for sharing your experience and helping me learn more tips to complete this project.
 
-# Result
-![](Dashboard_Sales.pdf)
+# My Result
+![](Dashboard.mp4)
+![](DetailPerson.mp4)
 * Download Power bi file [here](Sales_Dashboard.pbix)
