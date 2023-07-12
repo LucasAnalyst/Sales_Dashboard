@@ -1,4 +1,8 @@
-# Sales_Dashboard
+
+![dashboard](https://github.com/LucasAnalyst/Sales_Dashboard/assets/116628385/692f05c9-698e-46bb-8765-3a425d051892)
+
+
+Sales_Dashboard
 ---
 ## Advance_your_skills
 Goal: Create a compelling, dynamic sales dashboard in Power BI that updates automatically based on the filters selected.
