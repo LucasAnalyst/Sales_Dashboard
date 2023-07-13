@@ -31,7 +31,7 @@ Key tasks:
 - Useful slicer looking for interesting information.
 #### 4. Create dynamic reports that update automatically based on the filters selected.
 
-- I Test the interactivity and dynamic linkage between all visualizations to ensure the dashboard filters and updates as intended.
+- Test the interactivity and dynamic linkage between all visualizations to ensure the dashboard filters and updates as intended.
 
 #### 5. Create an effective background in Figma to improve the Power BI dashboard presentation.
 
