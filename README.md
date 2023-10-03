@@ -57,6 +57,6 @@ Key tasks:
 ## Build your skills and confidence. Have a good day!
 Thank you for stopping by! 
 
-Thank Ismaila Omeiza M and your 'Data with Decision' Youtube channel([@datalab365](https://www.youtube.com/@datalab365/about)), for sharing your experience and helping me learn more tips to complete this project.
+Thank Ismaila Omeiza M and your 'Data with Decision' YouTube channel([@datalab365](https://www.youtube.com/@datalab365/about)), for sharing your experience and helping me learn more tips to complete this project.
 
 
