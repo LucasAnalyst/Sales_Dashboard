@@ -1,5 +1,5 @@
 
-![dashboard](https://github.com/LucasAnalyst/Sales_Dashboard/assets/116628385/692f05c9-698e-46bb-8765-3a425d051892)
+![dashboard](Dashboard_1.png)
 
 
 Sales_Dashboard
@@ -9,12 +9,14 @@ Goal: Create a compelling, dynamic sales dashboard in Power BI that updates auto
 
 # My Result
 Dashboard:
-
+*Update* 03/10/23 
+![](Dashboard_2.png)
 
 https://github.com/LucasAnalyst/Sales_Dashboard/assets/116628385/04cd7282-a5b0-4b58-9721-a09c2d380a36
 
 Salesperson Detail: 
-
+![](Detail_1.png)
+![](Detail_2.png)
 
 https://github.com/LucasAnalyst/Sales_Dashboard/assets/116628385/175bf802-a58f-4157-8855-74562b6405b3
 
