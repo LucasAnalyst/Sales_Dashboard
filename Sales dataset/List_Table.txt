@@ -1,0 +1,12 @@
+[
+    {
+        "p_rel_url" : "LucasAnalyst/Sales_Dashboard/refs/heads/main/Sales%20dataset/SalesData.csv",
+        "p_sink_folder" : "Sales_Data",
+        "p_sink_file" : "SalesData.csv"
+    },
+    {
+        "p_rel_url" : "LucasAnalyst/Sales_Dashboard/refs/heads/main/Sales%20dataset/Product.csv",
+        "p_sink_folder" : Products_Data",
+        "p_sink_file" : "DIM_Product.csv"
+    }
+]
